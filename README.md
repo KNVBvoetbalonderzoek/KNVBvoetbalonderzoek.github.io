@@ -1,3 +1,11 @@
-# KNVBvoetbalonderzoek.github.io
+# Team voetbalonderzoek
 
-Test
+## KNVB voetbalonderzoek coding style
+
+* Bestanden
+  + Naamgeving
+* Syntax
+  + Naamgeving objecten
+  + Spacing
+  + Argument names
+  + Comments
