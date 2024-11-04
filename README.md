@@ -24,6 +24,6 @@ repository-naam
 │                          # Voor een typisch analyseproject zal dit het eindrapport zijn.
 │                          # Als een figuur of ander bestand wordt gemaakt door het uitvoeren van code, 
 │                          # zou dit in een submap binnen /results moeten worden geplaatst.
-├── docs                   # "De mappen binnen deze map zouden alle output van je project moeten bevatten.
+├── docs                   # De mappen binnen deze map zouden alle output van je project moeten bevatten.
 └── README.md              # Project documentatie
 ```
