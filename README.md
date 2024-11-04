@@ -14,6 +14,7 @@
 Voor iedere analyse maken we een aparte repository aan. De naam van deze repository voldoet aan de naamgevingsregels die we binnen het team gebruiken
 De reposity bestaat altijd uit de volgende 
 
+```
 repository-naam
 ├── data/                  # Main source code directory
 ├── code/                  # Deze map zouden al je code moeten in R- moeten bevatten.
@@ -25,4 +26,4 @@ repository-naam
 │                          # zou dit in een submap binnen /results moeten worden geplaatst.
 ├── docs                   # "De mappen binnen deze map zouden alle output van je project moeten bevatten.
 └── README.md              # Project documentatie
-
+```
