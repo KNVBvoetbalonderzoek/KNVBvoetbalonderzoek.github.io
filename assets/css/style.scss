@@ -21,13 +21,25 @@ body {
      margin: 0px; padding: 0px; border: none; 
 }
 
+/* General styles for all images */
+img {
+  display: block; /* Ensures the images are block-level for better layout control */
+  margin: 10px auto; /* Centers the images horizontally */
+}
+
+/* Style for logo */
+.logo-image {
+  max-width:100%;
+}
+
+/* Style for banner */
 .outer-left-full-height-image {
   position: fixed;          /* Keeps the image fixed on the outer left */
   left: 0;                  /* Aligns the image to the far left of the page */
   top: 0;                   /* Starts the image at the top of the page */
   height: 100vh;            /* Sets the image height to the full viewport height */
   width: auto;              /* Maintains the image's aspect ratio */
-  max-width:50%;
+  max-width:5%;
   object-fit: cover;        /* Ensures the image scales appropriately (optional) */
   z-index: 1000;            /* Keeps the image above other content */
 }
@@ -37,4 +49,6 @@ body {
     margin:0 auto
 }
 
-img {}
+
+
+
