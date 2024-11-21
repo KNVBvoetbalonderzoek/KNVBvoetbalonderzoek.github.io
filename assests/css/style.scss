@@ -1,0 +1,17 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif; /* Use a simple sans-serif font */
+    background-color: #f9faf9; /* Light, almost white background */
+    color: #ff6600; /* Orange color used in text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
