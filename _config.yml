@@ -1,6 +1,6 @@
 title: KNVB afdeling voetbalonderzoek
 logo: https://sassets.knvb.nl/sites/knvb.nl/files/knvb.svg
-description: Over Ons\ntesttest.
+description: <h3>Over Ons<h3><p>testtest.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
