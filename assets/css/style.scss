@@ -3,20 +3,21 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 225%;
+a, h1, h2, h3, h4, h5, h6 {
+  color:#ff6600;
+  margin:0 0 20px;
 }
 
 /* Body Styling */
 body {
     font-family: Arial; /* Use a simple sans-serif font */
-    background-color: #D8EBE6; /* Light, almost white background */
-    color: #ff6600; /* Orange color used in text */
+    background-color: #f9faf9; /* Light, almost white background */
+    color: ; /* Orange color used in text */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    overflow: hidden;
+    overflow: scroll;
      margin: 0px; padding: 0px; border: none; 
 }
 
@@ -26,8 +27,7 @@ body {
   top: 0;                   /* Starts the image at the top of the page */
   height: 100vh;            /* Sets the image height to the full viewport height */
   width: auto;              /* Maintains the image's aspect ratio */
+  max-width:70px;
   object-fit: cover;        /* Ensures the image scales appropriately (optional) */
   z-index: 1000;            /* Keeps the image above other content */
 }
-
-
