@@ -23,7 +23,8 @@ body {
 
 /* General styles for all images */
 img {
-  width: auto
+  display: block; /* Ensures the images are block-level for better layout control */
+  margin: 0px auto; /* Centers the images horizontally */
 }
 
 /* Style for logo */
@@ -31,7 +32,7 @@ img {
   max-width:100%;
 }
 
-/* Style for banner */
+/* Style for logo */
 .outer-left-full-height-image {
   position: fixed;          /* Keeps the image fixed on the outer left */
   left: 0;                  /* Aligns the image to the far left of the page */
