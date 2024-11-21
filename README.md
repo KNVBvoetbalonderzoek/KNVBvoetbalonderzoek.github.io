@@ -1,12 +1,5 @@
 # Team voetbalonderzoek
 
-```
-<body>
-    <div class="top-left-text">KNVB</div>
-    <img align="left" width="100" height="100" src="assets/images/right-banner.jpg">
-</body>
-```
-
 ## KNVB voetbalonderzoek coding style
 
 * Bestanden
