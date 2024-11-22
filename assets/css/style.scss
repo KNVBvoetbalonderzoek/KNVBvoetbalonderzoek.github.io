@@ -38,7 +38,7 @@ img {
   top: 0;                   /* Starts the image at the top of the page */
   height: 100vh;            /* Sets the image height to the full viewport height */
   width: auto;              /* Maintains the image's aspect ratio */
-  max-width:1%;
+  max-width:5%;
   object-fit: cover;        /* Ensures the image scales appropriately (optional) */
   z-index: 1000;            /* Keeps the image above other content */
 }
