@@ -5,7 +5,7 @@ De reposity bestaat altijd uit de volgende
 
 ### Mappenstructuur
 * repository-naam
-  * code/ 
+  * code/
   Deze map zouden al je code moeten in R- moeten bevatten.
   * results/
   * output/
