@@ -19,7 +19,7 @@ body {
     height: 100vh;
     max-height: 10rem; /* Equivalent to max-h-40 in Tailwind (assuming default scale) */
     flex-direction: column;
-    overflow-y: auto;
+    overflow-y: scroll;
     margin: 0px; padding: 0px; border: none; 
 }
 
