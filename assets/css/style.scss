@@ -48,6 +48,17 @@ img {
     margin:0 auto
 }
 
-
+.content{
+  width: 1200px;
+  min-height: 100px;
+  height: auto;
+  margin: 80px auto 0px auto;
+  background-color: black;
+  padding: 10px 10px; 
+  display: flex;
+  max-height: 10rem; /* Equivalent to max-h-40 in Tailwind (assuming default scale) */
+  flex-direction: column;
+  overflow-y: auto;
+}
 
 
