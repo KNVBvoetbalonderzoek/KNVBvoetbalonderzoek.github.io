@@ -27,13 +27,10 @@ De reposity bestaat altijd uit de volgende
 
 ## KNVB voetbalonderzoek coding style
 
-* Bestanden
-  + Naamgeving
-* Syntax
-  + Naamgeving objecten
-  + Spacing
-  + Argument names
-  + Comments
+Een README is ontzettend belangrijk
+
+![importance of README](assets/images/readme.JPG)
+
  
 
 
