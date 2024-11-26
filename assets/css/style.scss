@@ -24,6 +24,7 @@ body {
 /* General styles for all images */
 img {
   margin: 0px auto; /* Centers the images horizontally */
+  position: fixed;          /* Keeps the image fixed on the outer left */
 }
 
 /* Style for logo */
@@ -33,7 +34,6 @@ img {
 
 /* Style for logo */
 .outer-left-full-height-image {
-  position: fixed;          /* Keeps the image fixed on the outer left */
   left: 0;                  /* Aligns the image to the far left of the page */
   top: 0;                   /* Starts the image at the top of the page */
   height: 100vh;            /* Sets the image height to the full viewport height */
@@ -41,11 +41,6 @@ img {
   max-width:5%;
   object-fit: cover;        /* Ensures the image scales appropriately (optional) */
   z-index: 1000;            /* Keeps the image above other content */
-}
-
-.wrapper {
-    width: 1080px;
-    margin:0 auto
 }
 
 
