@@ -36,9 +36,9 @@ img {
   position: absolute;          /* Keeps the image fixed on the outer left */
   left: 0;                  /* Aligns the image to the far left of the page */
   top: 0;                   /* Starts the image at the top of the page */
-  height: 100vh;            /* Sets the image height to the full viewport height */
+  height: auto;            /* Sets the image height to the full viewport height */
   width: auto;              /* Maintains the image's aspect ratio */
-  max-width:155%;
+  max-width:50%;
   object-fit: cover;        /* Ensures the image scales appropriately (optional) */
   z-index: 1000;            /* Keeps the image above other content */
 }
