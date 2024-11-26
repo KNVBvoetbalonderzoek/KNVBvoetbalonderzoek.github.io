@@ -33,10 +33,10 @@ img {
 
 /* Style for logo */
 .outer-left-full-height-image {
-  position: absolute;          /* Keeps the image fixed on the outer left */
+  position: fixed;          /* Keeps the image fixed on the outer left */
   left: 0;                  /* Aligns the image to the far left of the page */
   top: 0;                   /* Starts the image at the top of the page */
-  height: auto;            /* Sets the image height to the full viewport height */
+  height: 100vh;            /* Sets the image height to the full viewport height */
   width: auto;              /* Maintains the image's aspect ratio */
   max-width:5%;
   object-fit: cover;        /* Ensures the image scales appropriately (optional) */
