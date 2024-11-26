@@ -29,7 +29,7 @@ De reposity bestaat altijd uit de volgende
 
 Een README is ontzettend belangrijk
 
-![importance of README](assets/images/readme.JPG)
+
 
  
 
