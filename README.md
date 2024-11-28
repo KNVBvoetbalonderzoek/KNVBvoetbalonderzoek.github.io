@@ -1,7 +1,30 @@
 # Team voetbalonderzoek
 
-Voor iedere analyse maken we een aparte repository aan. De naam van deze repository voldoet aan de naamgevingsregels die we binnen het team gebruiken
+Voor ieder analyseproject maken we een aparte repository (in het kort: repo) aan op Github
+Dit is een omgeving in de cloud waar straks alle code gebackuped staat. 
+
+> Geef de repo een naam; volg daarbij de KNVB afdeling onderzoek style guide (kleine letters, met uit-
+zondering van afkortingen, met een koppelteken tussen woorden). 
+
+Wanneer je een beschrijving (de-scription) toevoegt aan de repo, en de optie ‘add README’ aanvinkt, wordt de description automatisch
+een README.txt bestand. Dit bestand wordt op de voorpagina van de repo weergegeven. 
+
+> REGEL 2: Voeg aan elke repo een README.md toe. Hierin komt later de volledige
+analyse te staan met alle stappen om de analyse te reproduceren
+
+<img src="assets/images/readme.JPG" width="100"/>
+
+### 1.3 Creëer een RStudio project (local repo) en associeer met remote repo
+De remote repo leeft! Nu maken we een RStudio project waarmee we deze repo associëren. Dit noemen
+we de *local repo*. Dit doe je door door de URL van de GitHub repo te kopiëren (ik heb de KNVB-
+2
+voetbalmonitor repo als voorbeeld gebruikt, zie Figure 1).
+
+maken we een aparte repository aan. De naam van deze repository voldoet aan de naamgevingsregels die we binnen het team gebruiken
 De reposity bestaat altijd uit de volgende 
+
+
+___
 
 ### Mappenstructuur
 * repository-naam
